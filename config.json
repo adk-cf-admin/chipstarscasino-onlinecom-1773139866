@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#121212",
+            "lang-select-color": "#222829",
+            "bg-light": "#121212",
+            "welcome-bonus-bg": "#121212",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#2c0d0c",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#424242",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#AD0F0A",
+            "yellow": "#424242",
+            "yellow-button": "#AD0F0A",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#424242",
+            "casino-cards": "#121212",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#424242",
+            "providers-back": "#121212",
+            "faq-label": "#121212",
+            "bg-footer": "#121212",
+            "copyright": "#e7e7d5",
+            "starColor": "#424242",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4102"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4103",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Chipstars Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4104",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Chipstars Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Chipstars Casino",
+                    "title": "Chipstars Casino — Up to 270% Bonus, 10,000+ Games and Fast Withdrawals",
+                    "description": "Discover our Chipstars Canada casino with up to 270% welcome bonus, 10,000+ games, live casino, sportsbook action, VIP cashback up to 25%, and fast secure payouts.",
+                    "canonical": "chipstarscasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4105",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "chipstarscasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4106"
+                },
+                "hero": {
+                    "title": "Chipstars Casino — Bonuses, Games and Fast Payouts",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4107",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4108",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Up to 270% welcome bonus",
+                        "Real cash rewards, no bet cap",
+                        "Up to 25% VIP cashback weekly",
+                        "10,000+ games and live casino",
+                        "110+ providers for wider choice",
+                        "Fast payouts and secure payments",
+                        "24\/7 customer support always available"
+                    ],
+                    "advantagesAfterText": "At our casino, we bring together a huge game library, powerful bonuses, and fast financial transactions on one smooth platform. We create a space where players can enjoy slots, live tables, and tournaments with premium comfort. Our focus is big wins, fair play, and a high-level experience for every member.",
+                    "knowMore": "Know more",
+                    "appTitle": "Chipstars Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4109",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Chipstars Casino App",
+                    "mobileGooglePlayImageTitle": "Chipstars Casino App",
+                    "mobileIosImageTitle": "Chipstars Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Chipstars Casino",
+                        "description1": "We stand out through real-money rewards, high-value tournaments, and strong ongoing promotions. Our casino is built for players who want bigger winning potential, fast payouts, and bonus offers that keep adding value to every session.",
+                        "items": [
+                            "Up to 270% welcome.",
+                            "Up to €240,000 tournaments.",
+                            "Up to 25% VIP cashback."
+                        ],
+                        "description2": "Our Chipstars casino is a modern online platform where we combine a massive game collection, a strong bonus ecosystem, and a fast-paced entertainment experience. We are built for players who value big wins, wide variety, and smooth access to all key features in one place. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4110",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Our portfolio includes slots, table games, live casino, and a sportsbook section, so every player can choose the style that fits best. We place strong emphasis on momentum, which is why we regularly launch promotions, tournament campaigns, and themed offers. New players can start with a welcome bonus of up to 270% across the first four deposits, creating an impressive entry point. For loyal players, we offer a VIP direction with up to 25% cashback, elevated limits, and faster service. Our weekly offers add even more value and help keep every gaming session rewarding over time. We also provide rakeback and special hot codes that unlock extra free spins, bonus money, and seasonal offers. Our casino runs frequent tournaments with substantial prize pools, including long-form competitions and leaderboard events. These events bring competitive energy and give players the chance to chase both instant rewards and top placements. We continue to refresh the platform with new lobby content, new provider releases, and easy category navigation. With more than 10,000 games from over 110 providers, our selection remains broad, active, and exciting. We support both a classic casino experience and a crypto-friendly environment, giving players added flexibility. For us, gaming should combine emotion, convenience, and premium-level service. That is why we focus on fast payouts, secure payments, 24\/7 support, and clear bonus rules. The result is a complete entertainment environment where bonuses, tournaments, live action, and winning potential work together as one experience."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Chipstars Casino: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nChipstars Casino Entry Rules and Responsible Gaming\n<\/h3>\n<p>\nVisiting our casino begins with account registration and confirmation that the player is at least 18 years old. We welcome users who create one personal account and provide accurate registration details. To unlock full access to financial operations and platform functionality, we may request identity verification. We expect every player to use only personal payment methods and manage the account independently. Our platform does not allow multiple accounts, account sharing, or any activity that conflicts with fair play. We follow responsible gaming principles and provide self-exclusion tools together with account limit controls. Once self-exclusion is activated, the account is restricted immediately for the selected period, and access to deposits and gameplay is paused. We encourage every player to manage bankroll carefully and use time and spending limits whenever needed. Our casino is designed for entertainment, so we support a balanced and mindful approach to gaming. To protect users, we apply clear rules covering age, identity, payment security, and safe account behavior. We also ask players to prevent minors from accessing their account, devices, or payment details.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntry Conditions\n<\/h4>\n<ul>\n            <li>• Registration is available only to players aged 18 and over.<\/li>\n            <li>• Gameplay requires a personal account with accurate details.<\/li>\n            <li>• Each player uses one account and personal payment methods only.<\/li>\n            <li>• KYC verification may be required for withdrawals and selected account actions.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited Actions\n<\/h4>\n<ul>\n            <li>• Creating multiple accounts for the same person is not allowed.<\/li>\n            <li>• Sharing an account, password, or payment methods with others is prohibited.<\/li>\n            <li>• Using third-party documents or payment credentials is not permitted.<\/li>\n            <li>• Any attempt to bypass bonus terms or platform rules is forbidden.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible Gaming\n<\/h4>\n<ul>\n            <li>• We provide self-exclusion options for short-term and long-term control.<\/li>\n            <li>• Players can set limits and manage spending directly in the account.<\/li>\n            <li>• Our support team can assist with player protection and responsible gaming requests.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nChipstars License, Data Protection, Encryption and Privacy\n<\/h3>\n<p>\nWe operate in a licensed environment and build all key processes around safety, transparency, and player protection. Our casino is managed by Games &amp; More B.V. and runs under a Curaçao GCB license, which supports a regulated operational framework. For us, licensing is not just a formality but the foundation of standards covering registration, payments, identity checks, and account handling. We follow structured rules that support fair gaming, correct transaction processing, and secure account management. This creates a stable and controlled gaming environment where every important process follows clear procedures.\n<\/p>\n<br>\n<p>\nData protection is one of our highest priorities. We apply modern technical measures to secure personal information, payment activity, and access to user accounts. Our casino and live products operate with certified and audited RNG systems that ensure random outcomes without human interference. This means game fairness is supported not only by internal policies but also by the technical design of the platform. We combine access control, encryption, and monitoring procedures to keep gameplay and settlements protected at every stage.\n<\/p>\n<br>\n<p>\nWe place special attention on encryption and secure data transmission. We use strong protection standards when processing information related to registration, account login, payments, and identity verification. This helps secure the most sensitive interaction points between the player and our platform. We also follow a controlled approach to payment-related information and sensitive records. As a result, the risk of unauthorized access is reduced and the overall experience remains smoother, safer, and more reliable.\n<\/p>\n<br>\n<p>\nOur privacy policy explains what data we collect, why we collect it, and how it is used. We process information to manage accounts, complete transactions, comply with required verification procedures, and improve service quality. Where necessary, data may also be used to meet legal and regulatory obligations and to prevent fraud. We aim to keep data processing transparent, purpose-based, and aligned with personal data protection standards. This allows us to maintain a strong balance between convenience and security.\n<\/p>\n<br>\n<p>\nWe also implement KYC and AML procedures because platform security is strongest when identity and payment activity are verified where required. These measures help prevent fraud, bonus abuse, and misuse of payment instruments. Verification may include confirming identity, address, and payment details when needed for account security or withdrawals. We view these procedures as part of high-quality service because they help preserve a clean and trusted gaming ecosystem. In practice, players receive both entertainment access and stronger account protection.\n<\/p>\n<br>\n<p>\nOur privacy and security model combines licensing, technical protection, internal control, and transparent rules. We continue to develop the platform so that every user feels confident during registration, deposits, gameplay, and withdrawals. For us, data security should work quietly but effectively in the background while supporting a smooth experience. That is why we pay equal attention to encryption, fair play, and responsible personal data handling. All of this creates a secure environment where players can focus on the game and the winning potential.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nChipstars Deposit and Withdrawal Methods\n<\/h3>\n<p>\nAt our casino, we make financial transactions convenient, fast, and secure for players with different payment preferences. We support both traditional payment methods and cryptocurrency options, giving more freedom for deposits and withdrawals. Deposits are generally credited quickly so players can move into gameplay without delay. To protect funds, we use segregated player balances together with multi-level transaction control procedures. Before withdrawals are completed, we may request account verification, which helps maintain payout security. Withdrawal approval can range from automated processing to extended review depending on the method used and the account status. Once approved, the payout is sent through the selected or available payment channel. We support transactions in EUR, USD, CHF, and BTC, making the cashier more flexible for different users. Our payment flow is designed to protect card and account information while keeping the process smooth. We focus on making the full path from deposit to payout as clear and comfortable as possible. Thanks to a structured payments system, players can enjoy both speed and confidence with every transaction.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #2C0D0C;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank Cards<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually instant deposit<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Payout after approval depends on bank processing<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank Transfer \/ SEPA<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">According to banking timeline<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Sent after approval and banking confirmation<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crypto<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast after approval<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Alternative Payment Methods<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Based on the selected provider<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<p>\nMinimum withdrawal depends on the selected payment method. Daily withdrawal limits can reach 5,000, while the 30-day limit can go up to 100,000. Account and payout currencies include EUR, USD, CHF, and BTC. This structure allows our cashier to remain flexible, secure, and player-friendly.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nChipstars Customer Support\n<\/h3>\n<p>\nOur customer support is built to give players fast, convenient assistance at any time of day. We stay connected through live chat, email, and phone contacts so every user can choose the most comfortable way to reach us. We place strong focus on speed, especially for verification, payouts, and account access requests. Live chat operates 24\/7, which means help is available exactly when it is needed. We aim to respond quickly and continue supporting each case until it is fully resolved. For us, service quality matters just as much as response time, so every request is handled in a clear and structured way. Our team assists with bonuses, technical issues, payments, tournaments, and responsible gaming settings. We also provide more personalized assistance for VIP players through dedicated managers and direct communication channels. We believe in friendly, precise, and practical service. Our support team helps players navigate the platform and keeps the experience smooth from start to finish. This makes support an essential part of the full Chipstars experience.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact Channels\n<\/h4>\n<ul>\n            <li>• 24\/7 live chat for immediate assistance.<\/li>\n            <li>• Email support for detailed questions and document checks.<\/li>\n            <li>• Phone contacts for additional communication options.<\/li>\n            <li>• VIP players may receive direct manager support channels.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse Time and Service Quality\n<\/h4>\n<ul>\n            <li>• Fast replies for key account and payout matters.<\/li>\n            <li>• Support follows requests through to full resolution.<\/li>\n            <li>• Assistance is available for verification, bonuses, tournaments, and payments.<\/li>\n            <li>• Clear guidance and practical solutions remain our top priority.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguage Availability\n<\/h4>\n<ul>\n            <li>• International support format for a broad player base.<\/li>\n            <li>• Accessible communication for users from different regions.<\/li>\n            <li>• Platform sections and core content are available in multiple languages.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Chipstars Casino",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nChipstars VIP Loyalty Program\n<\/h3>\n<p>\nOur loyalty program is designed for players who want more value from every gaming session. We develop our VIP direction as a long-term premium service model where activity on the platform unlocks stronger benefits over time. The foundation of the program is built on real privileges such as up to 25% cashback, elevated limits, faster payouts, and priority request handling. For us, loyalty should be felt not only in numbers but also in the quality of service, which is why VIP members receive more personal attention. The program includes weekly bonuses, rakeback, real money rewards, free spins, and special gifts. Additional highlights include birthday offers and invitations to selected events. We position VIP as a membership experience with lasting value and long-term recognition. Entry into the program is connected to player activity and participation on the platform. The higher the activity and consistency, the more opportunities become available inside our VIP ecosystem. We focus on convenience, which means loyalty works as a tool to strengthen both winnings and the overall user experience. The program suits active casino players and users who appreciate fast service and premium treatment. In practice, Chipstars VIP brings together money-based rewards, status, and elevated service in one complete experience.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration Conditions\n<\/h4>\n<ul>\n            <li>• Registering at our casino opens the path to VIP participation.<\/li>\n            <li>• Entry into the program depends on player activity on the platform.<\/li>\n            <li>• Once sufficient activity is reached, the account can access VIP privileges.<\/li>\n            <li>• Membership is designed for long-term participation and strong engagement.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStatus Growth and VIP Progress\n<\/h4>\n<ul>\n            <li>• Entry VIP access unlocks after clear player activity and opens the door to initial personal offers.<\/li>\n            <li>• Advanced VIP status expands limits, speeds up payouts, and improves weekly rewards.<\/li>\n            <li>• Premium VIP service strengthens cashback, accelerates support, and adds dedicated manager contact.<\/li>\n            <li>• Status growth is driven by regular play, overall activity volume, and continued platform engagement.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAvailable VIP Bonuses\n<\/h4>\n<ul>\n            <li>• Up to 25% cashback — a real-money return linked to player activity.<\/li>\n            <li>• Weekly bonuses — recurring personal rewards for active members.<\/li>\n            <li>• Rakeback — extra ongoing value tied to regular play.<\/li>\n            <li>• Free spins — real free spin rewards through personalized offers.<\/li>\n            <li>• Birthday gifts — tailored rewards for special occasions.<\/li>\n            <li>• Elevated limits — more flexibility for deposits and withdrawals.<\/li>\n            <li>• Fast payouts — quicker processing of withdrawals and verification.<\/li>\n            <li>• Dedicated support — direct contact with an account manager through priority channels.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses, Winning Opportunities and Special Offers at Chipstars\n<\/h3>\n<p>\nOur casino bonus system is built to give players value not only at the start but throughout the full gaming journey. We offer a welcome bonus of up to 270% across the first four deposits, creating a powerful opening for new players. One of the strongest features of this offer is that the bonus can be converted into real money once the requirements are completed, and the format does not impose a maximum bet restriction. We also run weekly cashback promotions that return a portion of player activity and help maintain momentum. Additional value comes from 5% rakeback on every bet, which is especially attractive for regular players who enjoy ongoing rewards. Inside our hot codes section, players can unlock special offers with bonuses up to €500, large free spin packages, and themed activations. These codes can lead to 100% deposit bonuses up to €500, 120 free spins, up to 250 free spins, and other limited-time rewards. We also launch individual campaigns such as 75% up to €750 or 120% plus 100 free spins. For players who enjoy competition, we run cash tournaments and leaderboard-based events with major prize pools. Standout events include prize funds of up to €240,000, €230,000, and €220,000, along with extended series reaching as high as €1,000,000 in scale. Different tournament formats may rank players by win size, points earned from wagering, or activity on selected slot titles. We focus on giving players access to both instant rewards and seasonal competition formats. Our offers cover free spins, bonus money, cashback, rakeback, tournament cash prizes, and personalized activations. This allows every player to choose the reward style that best fits the way they play. Many of our promotions are integrated into everyday gameplay, making participation smooth and natural. The result is a bonus ecosystem that feels active, rewarding, and strongly connected to real gaming value.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Bonuses and Special Offers\n<\/h4>\n<ul>\n            <li>• Welcome bonus up to 270% across the first 4 deposits — a powerful start for new players.<\/li>\n            <li>• Minimum deposit from $30 to unlock each welcome bonus stage.<\/li>\n            <li>• Welcome rewards can be paid in real money after requirements are met.<\/li>\n            <li>• No max bet inside the welcome offer — more freedom during gameplay.<\/li>\n            <li>• No strict time limit to complete the core welcome bonus flow.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRecurring Rewards\n<\/h4>\n<ul>\n            <li>• Weekly Cashback 10% — returns part of player activity every week.<\/li>\n            <li>• Rakeback 5% Every Bet — constant added value for regular play.<\/li>\n            <li>• VIP Cashback up to 25% — stronger cash returns for active VIP members.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Codes and Promo Activations\n<\/h4>\n<ul>\n            <li>• 100% Deposit Bonus up to €500 — popular boost format for new funds.<\/li>\n            <li>• 120 Free Spins — fast extra value for slot sessions.<\/li>\n            <li>• Up to 250 Free Spins — a larger spin package for extended play.<\/li>\n            <li>• 75% up to €750 + Free Spins — combined cash and spin reward format.<\/li>\n            <li>• 120% Bonus + 100 Free Spins — strong mix of bonus balance and free spins.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTournaments and Seasonal Events\n<\/h4>\n<ul>\n            <li>• Golden Horizon — up to €240,000 in tournament cash prizes.<\/li>\n            <li>• Wonder Win — up to €230,000 in real cash rewards.<\/li>\n            <li>• Big Win Rush — up to €220,000 in competitive prize value.<\/li>\n            <li>• Onlyplay Happy Hours — €58,000 prize pool and 3 points per €1 wagered.<\/li>\n            <li>• Gamzix Spin Express — 2026 stage series with weekly €20,000 pools.<\/li>\n            <li>• Drops &amp; Wins — large-scale prize campaigns on selected games.<\/li>\n            <li>• Leaderboards — cash prizes awarded for strong ranking positions.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames and Betting Options at Chipstars\n<\/h3>\n<p>\nAt our casino, we bring together a large entertainment library so players can choose between quick slot sessions, classic table games, live dealer action, and sports betting. The core of the catalog is built around slots, including new releases, megaways titles, bonus buy games, jackpot content, and popular titles from major studios. For players who enjoy traditional formats, we offer roulette, blackjack, baccarat, and other table classics. Live casino also plays a major role, allowing users to join real tables with live dealers for a more immersive experience. We also provide demo access for selected games, which is useful for exploring mechanics and choosing favorites. Our collection includes more than 10,000 games from over 110 providers. Alongside the casino section, we operate a sportsbook with betting markets on major sports. In sports, players can access both pre-match lines and live betting with real-time odds. Football, basketball, tennis, and other popular disciplines are part of the experience. We designed the interface to make movement between casino and sports fast and intuitive. This makes the platform suitable for slot-focused users and also for players who enjoy combining casino play with live betting. The result is a flexible and content-rich gaming environment.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Game and Bet Categories\n<\/h4>\n<ul>\n            <li>• Slots — classic, modern, megaways, bonus buy, and jackpot titles.<\/li>\n            <li>• Live Casino — roulette, blackjack, baccarat, and other live dealer tables.<\/li>\n            <li>• Table Games — card and wheel formats for classic casino play.<\/li>\n            <li>• New Releases — fresh content from popular providers.<\/li>\n            <li>• Demo Games — selected titles available for feature testing and exploration.<\/li>\n            <li>• Sportsbook — betting markets on popular sports events.<\/li>\n            <li>• Live Betting — in-play wagering with dynamic real-time odds.<\/li>\n            <li>• Bet History — convenient tracking of previously placed sportsbook bets.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Chipstars\n<\/h3>\n<p>\nOur casino supports a flexible betting range that suits both careful bankroll management and more aggressive play styles. Because we offer multiple gaming formats, limits can vary by category, provider, and specific game mechanics. With slots, table games, live casino, and sportsbook markets available in one place, players can choose the stake range that best fits their strategy. The table below shows a practical overview by major game category.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #2c0d0c;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Varies by game<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Varies by game<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Casino<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Varies by table<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Varies by table<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Table Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Varies by title<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Varies by title<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sportsbook<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Player chooses stake<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Depends on market limits<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nChipstars Tournaments and Leaderboards: How to Join and Win\n<\/h3>\n<p>\nOur tournaments and leaderboards are designed for players who want rewards not only from single wins but also from strong performance throughout an event. Participation usually starts by opening the active tournament page and playing the listed games or categories during the campaign period. Depending on the format, points may be awarded for wager amount, win size, or a combination of both. In some events we use mechanics based on win multipliers, while in others points are earned for every €1 wagered. For example, certain tournaments award 3 points for each €1 of real-money betting, while others focus on the strength of wins and leaderboard progression. The more activity and the better the performance, the higher the player climbs in the ranking. We keep the tournament structure transparent, so each event page typically shows dates, scoring mechanics, and prize pool information. Once the tournament ends, prizes are distributed according to final placement or the specific rules of that campaign. To receive a reward, players should follow the event terms and play on the participating games only. Ranking position can be tracked directly through the leaderboard as the campaign progresses. This format adds momentum, visible progress, and a strong competitive layer to the casino experience. With frequent tournament launches, our leaderboards become another major way to win at Chipstars.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUseful Participation Details\n<\/h4>\n<ul>\n            <li>• Open the active tournament page first and check the participating games.<\/li>\n            <li>• Play with real money when the specific event requires it.<\/li>\n            <li>• Points are awarded according to the tournament mechanic: wagers, spins, wins, or a mix of these.<\/li>\n            <li>• Some tournaments have no minimum bet, giving players more flexibility.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to Climb the Leaderboard\n<\/h4>\n<ul>\n            <li>• Increase qualifying wagers or spins during the event period.<\/li>\n            <li>• Follow the scoring model closely and build the right participation strategy.<\/li>\n            <li>• Return to the leaderboard regularly to track your current position.<\/li>\n            <li>• In case of a tie, the player who reaches the score first may rank higher.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to Claim the Prize\n<\/h4>\n<ul>\n            <li>• Wait for the tournament to finish and for final placements to be confirmed.<\/li>\n            <li>• Meet the event conditions and play only the qualifying games.<\/li>\n            <li>• Check prize crediting in the account or contact support for confirmation.<\/li>\n<\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I play in demo mode?",
+                            "answer": "Yes, selected games in our catalog are available in demo mode so players can explore features before switching to real-money play."
+                        },
+                        {
+                            "title": "Can I get a bonus without a maximum bet restriction?",
+                            "answer": "Yes, our welcome offer follows a no max bet format, giving players more freedom while they play."
+                        },
+                        {
+                            "title": "How long does a free bonus stay active?",
+                            "answer": "In selected promotions, a free bonus may remain valid for 14 days unless different terms are listed in the offer itself."
+                        },
+                        {
+                            "title": "Can I have more than one account?",
+                            "answer": "No, we maintain a one-player, one-account rule for security and proper bonus handling."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

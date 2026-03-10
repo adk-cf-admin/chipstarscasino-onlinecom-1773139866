@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://chipstarscasino-online.com/
+Sitemap: https://chipstarscasino-online.com/sitemap.xml
